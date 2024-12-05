@@ -1,7 +1,7 @@
 
 # Aplikasi Group Chat  
 
-**VirusZzHkP Group Chat** adalah aplikasi chatting berbasis web yang memungkinkan komunikasi waktu nyata antara pengguna. Dibangun menggunakan PHP dan MySQL, aplikasi ini menyediakan fitur-fitur canggih untuk mendukung pengalaman pengguna yang menyenangkan.  
+**Aplikasi Group Chat** adalah aplikasi chatting berbasis web yang memungkinkan komunikasi waktu nyata antara pengguna. Dibangun menggunakan PHP dan MySQL, aplikasi ini menyediakan fitur-fitur canggih untuk mendukung pengalaman pengguna yang menyenangkan.  
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## Pendahuluan  
 
-**VirusZzHkP Group Chat** dirancang untuk memungkinkan pengguna berkomunikasi dengan lancar melalui pesan teks dan gambar. Aplikasi ini cocok untuk digunakan dalam komunitas, organisasi, atau tim kecil yang memerlukan platform komunikasi internal yang sederhana namun efisien.  
+**Aplikasi Group Chat** dirancang untuk memungkinkan pengguna berkomunikasi dengan lancar melalui pesan teks dan gambar. Aplikasi ini cocok untuk digunakan dalam komunitas, organisasi, atau tim kecil yang memerlukan platform komunikasi internal yang sederhana namun efisien.  
 
 ---
 
@@ -37,7 +37,7 @@ Ikuti langkah-langkah di bawah ini untuk menginstal aplikasi pada server lokal A
 
 1. **Clone Repositori**:  
    ```bash  
-   git clone https://github.com/username/viruszzhkp-group-chat.git  
+   git clone https://github.com/furiscom/chat.git  
    ```  
 
 2. **Instalasi Dependensi**:  
