@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^chat\.masjidarraudhohtelanaipura\.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.chat\.masjidarraudhohtelanaipura\.net$
+RewriteRule ^/?$ "https\:\/\/chat\.masjidarraudhohtelanaipura\.net\/" [R=301,L]
+
